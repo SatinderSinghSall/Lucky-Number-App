@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("userName", userName_Input);
                 startActivity(intent);
 
-                Toast.makeText(MainActivity.this, "Navigating...", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Calculating...", Toast.LENGTH_SHORT).show();
             }
         });
     }
