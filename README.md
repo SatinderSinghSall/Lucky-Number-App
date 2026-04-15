@@ -17,6 +17,7 @@ You can also **share your lucky number** with friends via any app. ✨
 ---
 
 ## 🚀 Screenshots
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/542b2edf-f845-409d-8f4e-c52d6e2b7f0a" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63d611b4-bd8d-4032-9fea-2facc5d56d9a" />
